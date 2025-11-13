@@ -1,0 +1,5 @@
+[
+  { "lat": 22.3193, "lon": 114.1694, "category": "home",   "value": 1, "desc": "My flat in Kowloon" },
+  { "lat": 22.2855, "lon": 114.1577, "category": "coffee", "value": 2, "desc": "Morning latte in Central" },
+  { "lat": 22.2783, "lon": 114.1742, "category": "park",   "value": 3, "desc": "Victoria Park walk" }
+]
